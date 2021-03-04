@@ -1,0 +1,836 @@
+# Copyright (C) 2020 ThemeGrill
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Accelerate 1.4.8\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2020-12-17 05:34:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+
+#: archive.php:34
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:42
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:45
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:48
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:51
+msgid "Asides"
+msgstr ""
+
+#: archive.php:54
+msgid "Images"
+msgstr ""
+
+#: archive.php:57
+msgid "Videos"
+msgstr ""
+
+#: archive.php:60
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:63
+msgid "Links"
+msgstr ""
+
+#: archive.php:66 sidebar-left.php:29 sidebar.php:29
+msgid "Archives"
+msgstr ""
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-blog-large-image.php:40 content-blog-small-image.php:41
+#: content.php:48 inc/widgets/accelerate-featured-single-page-widget.php:95
+#: inc/widgets/accelerate-image-service-widget.php:111
+msgid "Read more"
+msgstr ""
+
+#: content-page.php:26 content-single.php:31
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:94
+msgid "Primary/Main Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:42
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:111
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/class-accelerate-admin.php:38
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin/class-accelerate-admin.php:52
+msgid "Dismiss"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Accelerate"
+msgstr ""
+
+#: inc/admin/class-accelerate-admin.php:61
+msgid ""
+"Welcome! Thank you for choosing Accelerate! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: inc/admin/class-accelerate-admin.php:63
+msgid ""
+"Clicking the button below will install and activate the ThemeGrill demo "
+"importer plugin."
+msgstr ""
+
+#: inc/admin/class-accelerate-admin.php:67
+#: inc/admin/class-accelerate-welcome-notice.php:26
+msgid "Get started with Accelerate"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:36
+#. translators: %s: Theme Name.
+msgid "%s Options"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:58
+#. translators: %s: Theme version.
+msgid "Accelerate %s"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:67
+#. translators: %s: Theme Name.
+msgid "Welcome to %s!"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:73
+#. translators: %s: Theme Name.
+msgid "Important links to get you started with %s"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:79
+msgid "Get Started"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:82
+msgid "Learn Basics"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:87
+msgid "Next Steps"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:89
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:90
+msgid "Starter Demos"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:91
+msgid "Premium Version"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:96
+msgid "Further Actions"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:98
+#: inc/admin/class-accelerate-theme-review-notice.php:95
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/class-accelerate-dashboard.php:99
+msgid "Leave a review"
+msgstr ""
+
+#: inc/admin/class-accelerate-notice.php:59
+#: inc/admin/class-accelerate-notice.php:78
+#: inc/admin/class-accelerate-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-accelerate-notice.php:63
+#: inc/admin/class-accelerate-notice.php:82
+#: inc/admin/class-accelerate-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/class-accelerate-theme-review-notice.php:68
+#. Translators: %1$s current user display name.
+msgid ""
+"Howdy, %1$s! It seems that you have been using this theme for more than 15 "
+"days. We hope you are happy with everything that the theme has to offer. If "
+"you can spare a minute, please help us by leaving a 5-star review on "
+"WordPress.org.  By spreading the love, we can continue to develop new "
+"amazing features in the future, for free!"
+msgstr ""
+
+#: inc/admin/class-accelerate-theme-review-notice.php:80
+msgid "Sure"
+msgstr ""
+
+#: inc/admin/class-accelerate-theme-review-notice.php:85
+#: inc/admin/class-accelerate-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr ""
+
+#: inc/admin/class-accelerate-theme-review-notice.php:90
+msgid "I already did"
+msgstr ""
+
+#: inc/admin/class-accelerate-upgrade-notice.php:90
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+msgid "Upgrade to pro"
+msgstr ""
+
+#: inc/admin/class-accelerate-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr ""
+
+#: inc/admin/class-accelerate-welcome-notice.php:54
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+msgid ""
+"Welcome! Thank you for choosing Accelerate! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome "
+"page%2$s."
+msgstr ""
+
+#: inc/admin/class-accelerate-welcome-notice.php:63
+msgid ""
+"Clicking the button will install and activate the ThemeGrill demo importer "
+"plugin."
+msgstr ""
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "View PRO version"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Choose the option that you want."
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Header Image Position"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Choose top header image display position."
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Position One: Display the Header image just above the site title/text."
+msgstr ""
+
+#: inc/customizer.php:116
+msgid ""
+"Position Two (Default): Display the Header image between site title/text "
+"and the main/primary menu."
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Position Three: Display the Header image below main/primary menu."
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Responsive Menu Style"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Switch to new responsive menu."
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Design"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Boxed layout"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Wide layout"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid ""
+"Select default layout. This layout will be reflected in whole site "
+"archives, search etc. The layout for a single post and page can be "
+"controlled from below options."
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Default layout for pages only"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page."
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Default layout for single posts only"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid ""
+"Select default layout for single posts. This layout will be reflected in "
+"all single posts unless unique layout is set for specific post."
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Posts page listing display type"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid ""
+"Choose the display type for the latests posts view or posts page view "
+"(static front page)."
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Large featured image"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Small featured image"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Small featured image with alternating sides"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Primary color option"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to "
+"match your site and logo."
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Additional"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Author Bio Option"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Check to display the author bio."
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Check to activate the related posts"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Activate slider"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Check to activate slider."
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Slider #%1$s"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Upload image"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Enter title for this slide"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Enter description for this slide"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Slider text position."
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Right side"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Left side"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "Enter link to redirect for the slide title"
+msgstr ""
+
+#: inc/functions.php:301 inc/functions.php:351
+msgid ", "
+msgstr ""
+
+#: inc/functions.php:303
+msgid "<span class=\"cat-links\"><i class=\"fa fa-folder-open\"></i>%1$s</span>"
+msgstr ""
+
+#: inc/functions.php:357
+msgid "<i class=\"fa fa-comment\"></i> 0 Comment"
+msgstr ""
+
+#: inc/functions.php:357
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr ""
+
+#: inc/functions.php:357
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr ""
+
+#: inc/functions.php:360
+msgid "Edit"
+msgstr ""
+
+#: inc/functions.php:466
+msgid "Post navigation"
+msgstr ""
+
+#: inc/functions.php:476
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/functions.php:480
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/functions.php:506
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions.php:506
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions.php:521
+msgid "Post author"
+msgstr ""
+
+#: inc/functions.php:524
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions.php:532
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions.php:538
+msgid "Reply"
+msgstr ""
+
+#: inc/functions.php:564
+msgid "WordPress"
+msgstr ""
+
+#: inc/functions.php:568
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: inc/functions.php:568
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/functions.php:568
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/related-posts.php:7
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/related-posts.php:61
+msgid ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:32
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:34
+msgid "Call to Action Additional Text"
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:37
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:41
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets/accelerate-call-to-action-widget.php:45
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/widgets/accelerate-custom-tag-widget.php:10
+msgid "Custom Tag Cloud"
+msgstr ""
+
+#: inc/widgets/accelerate-custom-tag-widget.php:14
+msgid "TG: Custom Tag Cloud"
+msgstr ""
+
+#: inc/widgets/accelerate-custom-tag-widget.php:45
+#: inc/widgets/accelerate-featured-single-page-widget.php:27
+#: inc/widgets/accelerate-recent-work-widget.php:35
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:11
+msgid "Display Featured Single Page"
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:15
+msgid "TG: Featured Single Page"
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:24
+msgid "Suitable for Business Sidebar and Left/Right Sidebar."
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:30
+msgid "Displays the title of the Page if title input is empty."
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:33
+#: inc/widgets/accelerate-image-service-widget.php:32
+#: inc/widgets/accelerate-recent-work-widget.php:42
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:37
+msgid "Remove Featured image"
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:42
+#: inc/widgets/accelerate-featured-single-page-widget.php:47
+msgid "Show Image Before Title"
+msgstr ""
+
+#: inc/widgets/accelerate-featured-single-page-widget.php:43
+#: inc/widgets/accelerate-featured-single-page-widget.php:48
+msgid "Show Image After Title"
+msgstr ""
+
+#: inc/widgets/accelerate-image-service-widget.php:10
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr ""
+
+#: inc/widgets/accelerate-image-service-widget.php:14
+msgid "TG: Image Services"
+msgstr ""
+
+#: inc/widgets/accelerate-image-service-widget.php:39
+msgid "Display Read more"
+msgstr ""
+
+#: inc/widgets/accelerate-recent-work-widget.php:10
+msgid ""
+"Show your some pages as recent work. Best for Business Top or Bottom "
+"sidebar."
+msgstr ""
+
+#: inc/widgets/accelerate-recent-work-widget.php:14
+msgid "TG: Featured Widget"
+msgstr ""
+
+#: inc/widgets/accelerate-recent-work-widget.php:38
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:51
+msgid "Business Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:62
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:73
+msgid "Error 404 Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets on Error 404 page."
+msgstr ""
+
+#: inc/widgets/widgets.php:84
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: inc/widgets/widgets.php:86
+msgid "Shows widgets at footer sidebar one."
+msgstr ""
+
+#: inc/widgets/widgets.php:95
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:97
+msgid "Shows widgets at footer sidebar two."
+msgstr ""
+
+#: inc/widgets/widgets.php:106
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "Shows widgets at footer sidebar three."
+msgstr ""
+
+#: navigation.php:20 navigation.php:32
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:21 navigation.php:33
+msgid "Next &rarr;"
+msgstr ""
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:18
+msgid "Search Results"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/accelerate/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Accelerate is multipurpose WordPress theme made for simplicity and ease of "
+"use. This theme is a piece of art that has this premium look and feel which "
+"will make your site stand out. Supports all post formats. Accelerate can be "
+"used for portfolio, business, blog, personal, travel, corporate, business "
+"services or any other kinds of sites. Get free support in "
+"https://themegrill.com/support-forum/ and check the demo at "
+"https://demo.themegrill.com/accelerate/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/functions.php:470 navigation.php:40
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/functions.php:471 navigation.php:41
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
